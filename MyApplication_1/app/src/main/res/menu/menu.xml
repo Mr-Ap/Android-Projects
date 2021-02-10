@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/accountMenu"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        android:title="Account">
+
+    </item>
+
+    <item
+        android:id="@+id/orderMenu"
+        android:orderInCategory="300"
+        app:showAsAction="never"
+        android:title="Orders">
+
+    </item>
+
+    <item
+        android:id="@+id/CartMenu"
+        android:orderInCategory="400"
+        app:showAsAction="never"
+        android:title="Cart">
+
+    </item>
+
+    <item
+        android:id="@+id/logoutMenu"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Logout">
+
+
+    </item>
+
+    <item
+        android:id="@+id/SettingsMenu"
+        android:orderInCategory="500"
+        app:showAsAction="never"
+        android:title="Settings">
+
+
+    </item>
+
+</menu>
