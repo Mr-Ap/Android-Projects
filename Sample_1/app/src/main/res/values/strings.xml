@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sample_1</string>
+    <string name="hint">Please Enter PRN No..</string>
+    <string name="submit">Submit</string>
+    <string name="yoa">Year of Admission :</string>
+    <string name="degree">Registered Course :</string>
+    <string name="branch">Branch :</string>
+    <string name="rno">Roll No :</string>
+    <string name="newline" />
+    <string name="yog">Year of Graduation :</string>
+    <string name="wce">Walchand College Of Engineering , Sangli</string>
+    <string name="ty">Thank You...!</string>
+    <string name="vprn">Enter Valid PRN..!</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Profile" android:title="Profile " android:icon="@drawable/ic_account_box_black_24dp"/>
+    <item android:id="@+id/Orders" android:title="Orders" android:icon="@drawable/ic_access_time_black_24dp"/>
+    <item android:id="@+id/Cart" android:title="Cart" android:icon="@drawable/ic_shopping_cart_black_24dp"/>
+    <item android:id="@+id/Settings" android:title="Settings" android:icon="@drawable/ic_settings_black_24dp"/>
+    <item android:id="@+id/LogOut" android:title="LogOut" android:icon="@drawable/ic_keyboard_return_black_24dp"/>
+
+</menu>
